@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sam P
+# Sam P.
 
 <p><strong>Fractional CTO · AI Engineer · Technical Advisor</strong></p>
 <p>
