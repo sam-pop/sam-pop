@@ -3,9 +3,10 @@
 # Sam P.
 
 <p><strong>Fractional CTO · AI Engineer · Technical Advisor</strong></p>
+
 <p>
-  The bridge between <strong>business</strong> and <strong>technology</strong> — I translate<br/>
-  what the business needs into software and AI that gets built, shipped, and scaled.
+  The bridge between <strong>business</strong> and <strong>technology</strong>.<br/>
+  I translate what the business needs into software and AI that gets built, shipped, and scaled.
 </p>
 
 <p>
@@ -18,8 +19,7 @@
 
 ## What I do
 
-<!-- EDIT: tighten these to match how you actually engage -->
-I sit at the intersection of business and engineering. Founders and leadership teams bring me in when they need someone who can hold a P&L conversation and a system-design conversation in the same breath — translating commercial goals into technical decisions, and technical realities back into terms the business can act on. That increasingly means an AI strategy that's real rather than a slide: knowing where models genuinely create leverage and where they don't. Engagements range from a few days a month of advisory to hands-on lead-developer work through a critical build. Either way, the job is the same: make sure the right thing gets built, built well, and shipped on time.
+Founders and leadership teams bring me in when they need someone who can hold a P&L conversation and a system-design conversation in the same breath. I translate commercial goals into technical decisions, and technical realities back into terms the business can act on. I've done both sides for real: built one company's entire technology function from zero and ran it for over seven years, and taken products from whiteboard to production as a founder and fractional CTO. These days that increasingly means a practical AI strategy, knowing where models create real leverage and where they don't. Engagements range from a few days a month of advisory to hands-on lead-developer work through a critical build. Either way, the job is the same: make sure the right thing gets built, built well, and shipped on time.
 
 ---
 
@@ -30,7 +30,7 @@ I sit at the intersection of business and engineering. Founders and leadership t
 <td colspan="2" valign="top">
 
 **🤖 AI Strategy & Integration**
-<br/>Cut through the hype to where AI actually moves the needle, then ship it — LLM-powered features, RAG and retrieval systems, agents, and automation that holds up in production rather than just in a demo.
+<br/>Cut through the hype to where AI actually moves the needle, then ship it: LLM-powered features, RAG and retrieval systems, agents, and automation that holds up in production.
 
 </td>
 </tr>
@@ -39,13 +39,13 @@ I sit at the intersection of business and engineering. Founders and leadership t
 <td width="50%" valign="top">
 
 **🧭 Technical Strategy & Architecture**
-<br/>Turn product goals into a pragmatic technical roadmap and a system architecture that won't need a rewrite in a year.
+<br/>Turn product goals into a pragmatic technical roadmap and an architecture that still holds up a year later.
 
 </td>
 <td width="50%" valign="top">
 
 **👥 Team & Hiring**
-<br/>Build and level up engineering teams — hiring plans, interview process, and the standards that keep quality high as you grow.
+<br/>Build and level up engineering teams: hiring plans, interview processes, and the standards that keep quality high as you grow.
 
 </td>
 </tr>
